@@ -1,0 +1,7 @@
+---
+Name: structureddata
+---
+
+SilverStripe\CMS\Model\SiteTree:
+  extensions:
+    - MichelSteege\StructuredData\Extensions\StructuredDataExtension
